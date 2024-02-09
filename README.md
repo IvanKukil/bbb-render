@@ -17,6 +17,7 @@ install at least the following:
 
 ```
 sudo apt install python3-gi gir1.2-ges-1.0 ges1.0-tools python3-intervaltree
+sudo apt-get install gstreamer1.0-plugins-*
 ```
 
 You may also want to install the [Pitivi video
